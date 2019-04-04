@@ -12,12 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('layouts.layout');
 });
-Route::get('/hola',function(){
-    return "hola";
-});
-Route::get('/hola/{nombre}',function($nombre){
-    return "hola: ".$nombre;
-});
-Route::resource('prueba','PruebaController');
