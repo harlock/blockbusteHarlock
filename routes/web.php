@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('layouts.layout');
 });
+Route::resources([
+    'generos'=>'GenerosController'
+]);
