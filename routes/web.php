@@ -26,8 +26,17 @@ Route::get('/vic', function () {
 });
 Route::get('/angeles',function(){return view('angeles.index');});
 
+<<<<<<< HEAD
 Route::get('/ana',function(){return view('ana.index');});
 
 Route::get('/jonathan', function () {
     return view('jonathan.index');
 });
+=======
+Route::get('/carlos', function () {
+    return view('carloss.carlos');
+});
+
+Route::get('/ana',function(){return view('ana.index');});
+
+>>>>>>> cca79d55df51efc1e34a0a31eeb6a1e8ce7be82f
