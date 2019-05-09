@@ -29,13 +29,20 @@
             <li class="nav-item"><a href="/cesar" class="nav-link text-white">Cesar</a></li>
             <li class="nav-item"><a href="/vic" class="nav-link text-white">Victor</a></li>
             <li class="nav-item"><a href="/angeles" class="nav-link text-white">Angeles</a></li>
-            <li class="nav-item"><a href="{{url("/carlos")}}" class="nav-link text-white">Carlos</a></li>
+
+
+            <li class="nav-item"><a href="/Miriam" class="nav-link text-white">Miriam</a></li>
+          <li class="nav-item"><a href="{{url("/carlos")}}" class="nav-link text-white">Carlos</a></li>
             <li class="nav-item"><a href="/ana" class="nav-link text-white">Ana</a></li>
 <<<<<<< HEAD
             <li class="nav-item"><a href="/Mendieta" class="nav-link text-white">Mendieta</a></li>
 =======
             <li class="nav-item"><a href="{{url("/jonathan")}}" class="nav-link text-white">JONATHAN</a></li>
+<<<<<<< HEAD
 >>>>>>> 1c145c7a279135dc04e60f76950639add4e7faac
+=======
+
+>>>>>>> 4d75a5f45dbe9c6940eb3d29d0daaeba0a52074d
         </ul>
     </header>
     <main class="container">
