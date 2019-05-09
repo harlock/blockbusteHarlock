@@ -31,7 +31,7 @@
             <li class="nav-item"><a href="/angeles" class="nav-link text-white">Angeles</a></li>
             <li class="nav-item"><a href="{{url("/carlos")}}" class="nav-link text-white">Carlos</a></li>
             <li class="nav-item"><a href="/ana" class="nav-link text-white">Ana</a></li>
-
+            <li class="nav-item"><a href="/Mendieta" class="nav-link text-white">Mendieta</a></li>
         </ul>
     </header>
     <main class="container">

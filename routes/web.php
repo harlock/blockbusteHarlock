@@ -31,4 +31,4 @@ Route::get('/carlos', function () {
 });
 
 Route::get('/ana',function(){return view('ana.index');});
-
+Route::get('/Mendieta',function(){return view('ana.index');});
