@@ -29,6 +29,8 @@
             <li class="nav-item"><a href="/cesar" class="nav-link text-white">Cesar</a></li>
             <li class="nav-item"><a href="/vic" class="nav-link text-white">Victor</a></li>
             <li class="nav-item"><a href="/angeles" class="nav-link text-white">Angeles</a></li>
+            <li class="nav-item"><a href="{{url("/carlos")}}" class="nav-link text-white">Carlos</a></li>
+
 
         </ul>
     </header>

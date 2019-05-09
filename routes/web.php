@@ -25,3 +25,7 @@ Route::get('/vic', function () {
     return view('Victor.index');
 });
 Route::get('/angeles',function(){return view('angeles.index');});
+
+Route::get('/carlos', function () {
+    return view('carloss.carlos');
+});
