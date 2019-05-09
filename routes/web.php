@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::resources([
     'generos'=>'GenerosController'
 ]);
+Route::get('/vic', function () {
+    return view('Victor.index');
+});
