@@ -30,6 +30,12 @@ Route::get('/Miriam',function(){return view('Miriam.index');});
 
 Route::get('/ana',function(){return view('ana.index');});
 
+Route::get('/abner', function () {
+    return view('Abner.index');
+});
+
+Route::get('/ana',function(){return view('ana.index');});
+
 Route::get('/jonathan', function () {
     return view('jonathan.index');
 });
@@ -39,4 +45,5 @@ Route::get('/carlos', function () {
 });
 
 Route::get('/ana',function(){return view('ana.index');});
+
 
