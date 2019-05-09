@@ -26,6 +26,7 @@
             <li class="nav-item"><a href="" class="nav-link text-white">Compras</a></li>
             <li class="nav-item"><a href="" class="nav-link text-white">Peliculas</a></li>
             <li class="nav-item"><a href="{{url("generos")}}" class="nav-link text-white">Generos</a></li>
+            <li class="nav-item"><a href="/cesar" class="nav-link text-white">Cesar</a></li>
 
         </ul>
     </header>

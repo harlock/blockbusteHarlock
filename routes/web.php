@@ -14,6 +14,10 @@
 Route::get('/', function () {
     return view('layouts.layout');
 });
+Route::get('/cesar', function () {
+    return view('cesar.index');
+});
+
 Route::resources([
     'generos'=>'GenerosController'
 ]);
