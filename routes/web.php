@@ -27,3 +27,7 @@ Route::get('/vic', function () {
 Route::get('/angeles',function(){return view('angeles.index');});
 
 Route::get('/ana',function(){return view('ana.index');});
+
+Route::get('/jonathan', function () {
+    return view('jonathan.index');
+});
