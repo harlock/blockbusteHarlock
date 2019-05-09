@@ -53,4 +53,8 @@ Route::get('/ana',function(){return view('ana.index');});
 Route::get('/Mendieta',function()
 {return view('Mendieta.index');});
 
+Route::get('/emmanuel', function () {
+    return view('Emmanuel.index');
+});
+
 
