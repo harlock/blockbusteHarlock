@@ -31,7 +31,11 @@
             <li class="nav-item"><a href="/angeles" class="nav-link text-white">Angeles</a></li>
             <li class="nav-item"><a href="{{url("/carlos")}}" class="nav-link text-white">Carlos</a></li>
             <li class="nav-item"><a href="/ana" class="nav-link text-white">Ana</a></li>
+<<<<<<< HEAD
             <li class="nav-item"><a href="/Mendieta" class="nav-link text-white">Mendieta</a></li>
+=======
+            <li class="nav-item"><a href="{{url("/jonathan")}}" class="nav-link text-white">JONATHAN</a></li>
+>>>>>>> 1c145c7a279135dc04e60f76950639add4e7faac
         </ul>
     </header>
     <main class="container">
